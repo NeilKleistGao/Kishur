@@ -15,7 +15,7 @@ menus:
 about:
   description: description
   social_links:
-    # - { icon: icon, link: your link }
+    - { icon: icon-github, link: https://github.com/NeilKleistGao }
 
 #------------------------
 # Links
